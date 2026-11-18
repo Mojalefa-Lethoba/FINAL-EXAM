@@ -1,0 +1,8 @@
+--- NEW SALE ---
+CUSTOMER: Joe Bloggs
+PRODUCT: Cozy Nights Monarch
+PRICE: R 3500.0
+VAT (15%): R 525.0
+COMMISSION (5%): R 175.0
+TOTAL SALES: R 4200.0
+
